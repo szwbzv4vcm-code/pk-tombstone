@@ -16,7 +16,6 @@ The Pokémon Company.
   is also a backup: a QR reader that saves raw data can turn it back into the `.pk` file
   (for example the companion web app [QR Bank](https://pkqrbank.github.io)).
 
-  <img width="500" alt="QR Bank scanning a poster" src="images/qrbank_scanning.png" />
 
 - **Reads Gen 1 to 7 files** (`.pk1`–`.pk7`) and fills in the info strip for you: species,
   nickname, level, nature, ability, moves, IVs, EVs, stats, OT and IDs, where and when it was met,
