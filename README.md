@@ -98,6 +98,19 @@ cd $HOME/pokeapi-sprites
 git sparse-checkout add sprites/pokemon/other/official-artwork
 ```
 
+These commands need [Git](https://git-scm.com/downloads):
+
+- **Mac:** nothing to do. The first time you type `git`, macOS offers to install it; click **Install**.
+- **Windows:** Git isn't included. Install it once by pasting this into PowerShell, then **close
+  PowerShell and open a new window** before running the commands below:
+
+  ```
+  winget install --id Git.Git -e --source winget
+  ```
+
+  (Or download the installer from [git-scm.com](https://git-scm.com/downloads/win) and click Next
+  through it.)
+
 If you run the second block after the first, its `git clone` line says the folder already exists.
 That's fine: the next two lines still add the artwork.
 
