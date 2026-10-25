@@ -15,6 +15,9 @@ The Pokémon Company.
 - **Keeps your Pokémon forever on paper.** The QR code holds the whole `.pk` file, so the poster
   is also a backup: a QR reader that saves raw data can turn it back into the `.pk` file
   (for example the companion web app [QR Bank](https://pkqrbank.github.io)).
+
+  <img width="500" alt="QR Bank scanning a poster" src="images/qrbank_scanning.png" />
+
 - **Reads Gen 1 to 7 files** (`.pk1`–`.pk7`) and fills in the info strip for you: species,
   nickname, level, nature, ability, moves, IVs, EVs, stats, OT and IDs, where and when it was met,
   ribbons, memories and more. Every field can be edited, hidden, moved between columns or restyled.
@@ -44,7 +47,7 @@ These warnings appear because the app isn't signed with a paid Apple or Microsof
 
 ## Make your first poster
 
-<!-- Screenshot of the app window goes here -->
+<img width="500" alt="The poster maker window, with what each section does" src="images/poster_maker_gui.png" />
 
 1. Export your Pokémon as a `.pk` file with [PKHeX](https://github.com/kwsch/PKHeX)
    (Gen 1 to 7: `.pk1` to `.pk7`).

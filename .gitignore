@@ -10,6 +10,7 @@
 !/pk_reader/
 !/examples/
 !/.github/
+!/images/
 
 __pycache__/
 *.pyc
