@@ -1,0 +1,16 @@
+# Allow-list: ignore everything, then add back only the files that belong in the repo.
+# This keeps PK Files (trainer names/IDs), Poster Output, artwork and old versions out.
+/*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/binary_art_generator_p1.py
+!/inspect_pk.py
+!/make_palette_table.py
+!/pk_reader/
+!/examples/
+!/.github/
+
+__pycache__/
+*.pyc
+.DS_Store

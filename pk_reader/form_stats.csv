@@ -1,0 +1,4 @@
+national_number,form,display_name,hp,attack,defense,sp_attack,sp_defense,speed,note
+386,1,Deoxys (Attack),50,180,20,180,20,150,verified with PKHeX stat tables for every game Gen 3-7
+386,2,Deoxys (Defense),50,70,160,70,160,90,verified with PKHeX stat tables for every game Gen 3-7
+386,3,Deoxys (Speed),50,95,90,95,90,180,verified with PKHeX stat tables for every game Gen 3-7

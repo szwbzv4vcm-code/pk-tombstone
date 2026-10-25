@@ -1,0 +1,378 @@
+national_number,form,gender,gen_from,gen_to,kind,priority,display_name,art_id,note
+3,0,,,,mega,1,Mega Venusaur,10033,battle-only art
+3,0,,,,gmax,1,Gigantamax Venusaur,10195,battle-only art
+6,0,,,,mega,1,Mega Charizard X,10034,battle-only art
+6,0,,,,mega,2,Mega Charizard Y,10035,battle-only art
+6,0,,,,gmax,1,Gigantamax Charizard,10196,battle-only art
+9,0,,,,mega,1,Mega Blastoise,10036,battle-only art
+9,0,,,,gmax,1,Gigantamax Blastoise,10197,battle-only art
+12,0,,,,gmax,1,Gigantamax Butterfree,10198,battle-only art
+15,0,,,,mega,1,Mega Beedrill,10090,battle-only art
+18,0,,,,mega,1,Mega Pidgeot,10073,battle-only art
+19,1,,,,form,,Alolan Rattata,10091,form number from PokeAPI order (unverified)
+20,1,,,,form,,Alolan Raticate,10092,form number from PokeAPI order (unverified)
+20,2,,,,form,,Alolan Raticate (Totem),10093,form number from PokeAPI order (unverified)
+25,1,,6,6,form,,Pikachu (Rock Star),10080,Gen 6 cosplay forms
+25,1,,7,,form,,Pikachu (Original Cap),10094,Gen 7+ cap forms
+25,2,,6,6,form,,Pikachu (Belle),10081,Gen 6 cosplay forms
+25,2,,7,,form,,Pikachu (Hoenn Cap),10095,Gen 7+ cap forms
+25,3,,6,6,form,,Pikachu (Pop Star),10082,Gen 6 cosplay forms
+25,3,,7,,form,,Pikachu (Sinnoh Cap),10096,Gen 7+ cap forms
+25,4,,6,6,form,,Pikachu (Phd),10083,Gen 6 cosplay forms
+25,4,,7,,form,,Pikachu (Unova Cap),10097,Gen 7+ cap forms
+25,5,,6,6,form,,Pikachu (Libre),10084,Gen 6 cosplay forms
+25,5,,7,,form,,Pikachu (Kalos Cap),10098,Gen 7+ cap forms
+25,6,,6,6,form,,Pikachu (Cosplay),10085,Gen 6 cosplay forms
+25,6,,7,,form,,Pikachu (Alola Cap),10099,Gen 7+ cap forms
+25,7,,7,,form,,Pikachu (Partner Cap),10148,Gen 7+ cap forms
+25,8,,7,,form,,Pikachu (Starter),10158,Gen 7+ cap forms
+25,9,,7,,form,,Pikachu (World Cap),10160,Gen 7+ cap forms
+25,0,,,,gmax,1,Gigantamax Pikachu,10199,battle-only art
+26,1,,,,form,,Alolan Raichu,10100,form number from PokeAPI order (unverified)
+26,0,,,,mega,1,Mega Raichu X,10304,battle-only art
+26,0,,,,mega,2,Mega Raichu Y,10305,battle-only art
+27,1,,,,form,,Alolan Sandshrew,10101,form number from PokeAPI order (unverified)
+28,1,,,,form,,Alolan Sandslash,10102,form number from PokeAPI order (unverified)
+36,0,,,,mega,1,Mega Clefable,10278,battle-only art
+37,1,,,,form,,Alolan Vulpix,10103,form number from PokeAPI order (unverified)
+38,1,,,,form,,Alolan Ninetales,10104,form number from PokeAPI order (unverified)
+50,1,,,,form,,Alolan Diglett,10105,form number from PokeAPI order (unverified)
+51,1,,,,form,,Alolan Dugtrio,10106,form number from PokeAPI order (unverified)
+52,1,,,,form,,Alolan Meowth,10107,form number from PokeAPI order (unverified)
+52,2,,,,form,,Galarian Meowth,10161,form number from PokeAPI order (unverified)
+52,0,,,,gmax,1,Gigantamax Meowth,10200,battle-only art
+53,1,,,,form,,Alolan Persian,10108,verified on a real Gen 7 file
+58,1,,,,form,,Hisuian Growlithe,10229,form number from PokeAPI order (unverified)
+59,1,,,,form,,Hisuian Arcanine,10230,form number from PokeAPI order (unverified)
+65,0,,,,mega,1,Mega Alakazam,10037,battle-only art
+68,0,,,,gmax,1,Gigantamax Machamp,10201,battle-only art
+71,0,,,,mega,1,Mega Victreebel,10279,battle-only art
+74,1,,,,form,,Alolan Geodude,10109,form number from PokeAPI order (unverified)
+75,1,,,,form,,Alolan Graveler,10110,form number from PokeAPI order (unverified)
+76,1,,,,form,,Alolan Golem,10111,form number from PokeAPI order (unverified)
+77,1,,,,form,,Galarian Ponyta,10162,form number from PokeAPI order (unverified)
+78,1,,,,form,,Galarian Rapidash,10163,form number from PokeAPI order (unverified)
+79,1,,,,form,,Galarian Slowpoke,10164,form number from PokeAPI order (unverified)
+80,1,,,,form,,Galarian Slowbro,10165,form number from PokeAPI order (unverified)
+80,0,,,,mega,1,Mega Slowbro,10071,battle-only art
+83,1,,,,form,,Galarian Farfetch'd,10166,form number from PokeAPI order (unverified)
+88,1,,,,form,,Alolan Grimer,10112,form number from PokeAPI order (unverified)
+89,1,,,,form,,Alolan Muk,10113,form number from PokeAPI order (unverified)
+94,0,,,,mega,1,Mega Gengar,10038,battle-only art
+94,0,,,,gmax,1,Gigantamax Gengar,10202,battle-only art
+99,0,,,,gmax,1,Gigantamax Kingler,10203,battle-only art
+100,1,,,,form,,Hisuian Voltorb,10231,form number from PokeAPI order (unverified)
+101,1,,,,form,,Hisuian Electrode,10232,form number from PokeAPI order (unverified)
+103,1,,,,form,,Alolan Exeggutor,10114,verified on a real Gen 7 file
+105,1,,,,form,,Alolan Marowak,10115,form number from PokeAPI order (unverified)
+105,2,,,,form,,Marowak (Totem),10149,form number from PokeAPI order (unverified)
+110,1,,,,form,,Galarian Weezing,10167,form number from PokeAPI order (unverified)
+115,0,,,,mega,1,Mega Kangaskhan,10039,battle-only art
+121,0,,,,mega,1,Mega Starmie,10280,battle-only art
+122,1,,,,form,,Galarian Mr. Mime,10168,form number from PokeAPI order (unverified)
+127,0,,,,mega,1,Mega Pinsir,10040,battle-only art
+128,1,,,,form,,Paldean Tauros (Combat Breed),10250,form number from PokeAPI order (unverified)
+128,2,,,,form,,Paldean Tauros (Blaze Breed),10251,form number from PokeAPI order (unverified)
+128,3,,,,form,,Paldean Tauros (Aqua Breed),10252,form number from PokeAPI order (unverified)
+130,0,,,,mega,1,Mega Gyarados,10041,battle-only art
+131,0,,,,gmax,1,Gigantamax Lapras,10204,battle-only art
+133,1,,,,form,,Eevee (Starter),10159,form number from PokeAPI order (unverified)
+133,0,,,,gmax,1,Gigantamax Eevee,10205,battle-only art
+142,0,,,,mega,1,Mega Aerodactyl,10042,battle-only art
+143,0,,,,gmax,1,Gigantamax Snorlax,10206,battle-only art
+144,1,,,,form,,Galarian Articuno,10169,form number from PokeAPI order (unverified)
+145,1,,,,form,,Galarian Zapdos,10170,form number from PokeAPI order (unverified)
+146,1,,,,form,,Galarian Moltres,10171,form number from PokeAPI order (unverified)
+149,0,,,,mega,1,Mega Dragonite,10281,battle-only art
+150,0,,,,mega,1,Mega Mewtwo X,10043,battle-only art
+150,0,,,,mega,2,Mega Mewtwo Y,10044,battle-only art
+154,0,,,,mega,1,Mega Meganium,10282,battle-only art
+157,1,,,,form,,Hisuian Typhlosion,10233,form number from PokeAPI order (unverified)
+160,0,,,,mega,1,Mega Feraligatr,10283,battle-only art
+181,0,,,,mega,1,Mega Ampharos,10045,battle-only art
+194,1,,,,form,,Paldean Wooper,10253,form number from PokeAPI order (unverified)
+199,1,,,,form,,Galarian Slowking,10172,form number from PokeAPI order (unverified)
+208,0,,,,mega,1,Mega Steelix,10072,battle-only art
+211,1,,,,form,,Hisuian Qwilfish,10234,form number from PokeAPI order (unverified)
+212,0,,,,mega,1,Mega Scizor,10046,battle-only art
+214,0,,,,mega,1,Mega Heracross,10047,battle-only art
+215,1,,,,form,,Hisuian Sneasel,10235,form number from PokeAPI order (unverified)
+222,1,,,,form,,Galarian Corsola,10173,form number from PokeAPI order (unverified)
+227,0,,,,mega,1,Mega Skarmory,10284,battle-only art
+229,0,,,,mega,1,Mega Houndoom,10048,battle-only art
+248,0,,,,mega,1,Mega Tyranitar,10049,battle-only art
+254,0,,,,mega,1,Mega Sceptile,10065,battle-only art
+257,0,,,,mega,1,Mega Blaziken,10050,battle-only art
+260,0,,,,mega,1,Mega Swampert,10064,battle-only art
+263,1,,,,form,,Galarian Zigzagoon,10174,form number from PokeAPI order (unverified)
+264,1,,,,form,,Galarian Linoone,10175,form number from PokeAPI order (unverified)
+282,0,,,,mega,1,Mega Gardevoir,10051,battle-only art
+302,0,,,,mega,1,Mega Sableye,10066,battle-only art
+303,0,,,,mega,1,Mega Mawile,10052,battle-only art
+306,0,,,,mega,1,Mega Aggron,10053,battle-only art
+308,0,,,,mega,1,Mega Medicham,10054,battle-only art
+310,0,,,,mega,1,Mega Manectric,10055,battle-only art
+319,0,,,,mega,1,Mega Sharpedo,10070,battle-only art
+323,0,,,,mega,1,Mega Camerupt,10087,battle-only art
+334,0,,,,mega,1,Mega Altaria,10067,battle-only art
+351,1,,,,form,,Castform (Sunny),10013,form number from PokeAPI order (unverified)
+351,2,,,,form,,Castform (Rainy),10014,form number from PokeAPI order (unverified)
+351,3,,,,form,,Castform (Snowy),10015,form number from PokeAPI order (unverified)
+354,0,,,,mega,1,Mega Banette,10056,battle-only art
+358,0,,,,mega,1,Mega Chimecho,10306,battle-only art
+359,0,,,,mega,1,Mega Absol,10057,battle-only art
+359,0,,,,mega,2,Mega Absol Z,10307,battle-only art
+362,0,,,,mega,1,Mega Glalie,10074,battle-only art
+373,0,,,,mega,1,Mega Salamence,10089,battle-only art
+376,0,,,,mega,1,Mega Metagross,10076,battle-only art
+380,0,,,,mega,1,Mega Latias,10062,battle-only art
+381,0,,,,mega,1,Mega Latios,10063,battle-only art
+382,0,,,,primal,1,Primal Kyogre,10077,battle-only art
+383,0,,,,primal,1,Primal Groudon,10078,battle-only art
+384,0,,,,mega,1,Mega Rayquaza,10079,battle-only art
+386,1,,,,form,,Deoxys (Attack),10001,form number from PokeAPI order (unverified)
+386,2,,,,form,,Deoxys (Defense),10002,form number verified with a PKHeX-made file
+386,3,,,,form,,Deoxys (Speed),10003,form number verified with a PKHeX-made file
+398,0,,,,mega,1,Mega Staraptor,10308,battle-only art
+413,1,,,,form,,Wormadam (Sandy),10004,form number from PokeAPI order (unverified)
+413,2,,,,form,,Wormadam (Trash),10005,form number from PokeAPI order (unverified)
+428,0,,,,mega,1,Mega Lopunny,10088,battle-only art
+445,0,,,,mega,1,Mega Garchomp,10058,battle-only art
+445,0,,,,mega,2,Mega Garchomp Z,10309,battle-only art
+448,0,,,,mega,1,Mega Lucario,10059,battle-only art
+448,0,,,,mega,2,Mega Lucario Z,10310,battle-only art
+460,0,,,,mega,1,Mega Abomasnow,10060,battle-only art
+475,0,,,,mega,1,Mega Gallade,10068,battle-only art
+478,0,,,,mega,1,Mega Froslass,10285,battle-only art
+479,1,,,,form,,Rotom (Heat),10008,form number verified with a PKHeX-made file
+479,2,,,,form,,Rotom (Wash),10009,form number from PokeAPI order (unverified)
+479,3,,,,form,,Rotom (Frost),10010,form number from PokeAPI order (unverified)
+479,4,,,,form,,Rotom (Fan),10011,form number from PokeAPI order (unverified)
+479,5,,,,form,,Rotom (Mow),10012,form number verified with a PKHeX-made file
+483,1,,,,form,,Dialga (Origin),10245,form number from PokeAPI order (unverified)
+484,1,,,,form,,Palkia (Origin),10246,form number from PokeAPI order (unverified)
+485,0,,,,mega,1,Mega Heatran,10311,battle-only art
+487,1,,,,form,,Giratina (Origin),10007,form number verified with a PKHeX-made file
+491,0,,,,mega,1,Mega Darkrai,10312,battle-only art
+492,1,,,,form,,Shaymin (Sky),10006,form number from PokeAPI order (unverified)
+500,0,,,,mega,1,Mega Emboar,10286,battle-only art
+503,1,,,,form,,Hisuian Samurott,10236,form number from PokeAPI order (unverified)
+530,0,,,,mega,1,Mega Excadrill,10287,battle-only art
+531,0,,,,mega,1,Mega Audino,10069,battle-only art
+545,0,,,,mega,1,Mega Scolipede,10288,battle-only art
+549,1,,,,form,,Hisuian Lilligant,10237,form number from PokeAPI order (unverified)
+550,1,,,,form,,Basculin (Blue Striped),10016,form number from PokeAPI order (unverified)
+550,2,,,,form,,Basculin (White Striped),10247,form number from PokeAPI order (unverified)
+554,1,,,,form,,Galarian Darumaka,10176,form number from PokeAPI order (unverified)
+555,1,,,,form,,Darmanitan (Zen),10017,form number from PokeAPI order (unverified)
+555,2,,,,form,,Galarian Darmanitan (Standard),10177,form number from PokeAPI order (unverified)
+555,3,,,,form,,Galarian Darmanitan (Zen),10178,form number from PokeAPI order (unverified)
+560,0,,,,mega,1,Mega Scrafty,10289,battle-only art
+562,1,,,,form,,Galarian Yamask,10179,form number from PokeAPI order (unverified)
+569,0,,,,gmax,1,Gigantamax Garbodor,10207,battle-only art
+570,1,,,,form,,Hisuian Zorua,10238,form number from PokeAPI order (unverified)
+571,1,,,,form,,Hisuian Zoroark,10239,form number from PokeAPI order (unverified)
+604,0,,,,mega,1,Mega Eelektross,10290,battle-only art
+609,0,,,,mega,1,Mega Chandelure,10291,battle-only art
+618,1,,,,form,,Galarian Stunfisk,10180,form number from PokeAPI order (unverified)
+623,0,,,,mega,1,Mega Golurk,10313,battle-only art
+628,1,,,,form,,Hisuian Braviary,10240,form number from PokeAPI order (unverified)
+641,1,,,,form,,Tornadus (Therian),10019,form number from PokeAPI order (unverified)
+642,1,,,,form,,Thundurus (Therian),10020,form number from PokeAPI order (unverified)
+645,1,,,,form,,Landorus (Therian),10021,form number from PokeAPI order (unverified)
+646,1,,,,form,,Kyurem (Black),10022,form number from PokeAPI order (unverified)
+646,2,,,,form,,Kyurem (White),10023,form number from PokeAPI order (unverified)
+647,1,,,,form,,Keldeo (Resolute),10024,form number from PokeAPI order (unverified)
+648,1,,,,form,,Meloetta (Pirouette),10018,form number from PokeAPI order (unverified)
+652,0,,,,mega,1,Mega Chesnaught,10292,battle-only art
+655,0,,,,mega,1,Mega Delphox,10293,battle-only art
+658,1,,,,form,,Greninja (Battle Bond),10116,form number from PokeAPI order (unverified)
+658,2,,,,form,,Greninja (Ash),10117,form number from PokeAPI order (unverified)
+658,0,,,,mega,1,Mega Greninja,10294,battle-only art
+668,0,,,,mega,1,Mega Pyroar,10295,battle-only art
+670,5,,,,form,,Floette (Eternal),10061,set by hand
+670,5,,,,mega,1,Mega Floette (Eternal),10296,battle-only art
+678,,F,,,form,,Meowstic (Female),10025,gender match
+678,1,F,,,form,,Meowstic (Female),10025,form number verified with a PKHeX-made file
+678,,M,,,mega,1,Mega Meowstic (Male),10314,battle-only art
+678,,F,,,mega,1,Mega Meowstic (Female),10326,battle-only art
+681,1,,,,form,,Aegislash (Blade),10026,form number from PokeAPI order (unverified)
+687,0,,,,mega,1,Mega Malamar,10297,battle-only art
+689,0,,,,mega,1,Mega Barbaracle,10298,battle-only art
+691,0,,,,mega,1,Mega Dragalge,10299,battle-only art
+701,0,,,,mega,1,Mega Hawlucha,10300,battle-only art
+705,1,,,,form,,Hisuian Sliggoo,10241,form number from PokeAPI order (unverified)
+706,1,,,,form,,Hisuian Goodra,10242,form number from PokeAPI order (unverified)
+710,1,,,,form,,Pumpkaboo (Small),10027,form number from PokeAPI order (unverified)
+710,2,,,,form,,Pumpkaboo (Large),10028,form number from PokeAPI order (unverified)
+710,3,,,,form,,Pumpkaboo (Super),10029,form number from PokeAPI order (unverified)
+711,1,,,,form,,Gourgeist (Small),10030,form number from PokeAPI order (unverified)
+711,2,,,,form,,Gourgeist (Large),10031,form number from PokeAPI order (unverified)
+711,3,,,,form,,Gourgeist (Super),10032,form number from PokeAPI order (unverified)
+713,1,,,,form,,Hisuian Avalugg,10243,form number from PokeAPI order (unverified)
+718,1,,,,form,,Zygarde (10%),10181,form number verified with a PKHeX-made file
+718,2,,,,form,,Zygarde (10% Power Construct),10118,set by hand (from memory)
+718,3,,,,form,,Zygarde (50% Power Construct),10119,set by hand (from memory)
+718,4,,,,form,,Zygarde (Complete),10120,form number verified with a PKHeX-made file
+718,,,,,mega,1,Mega Zygarde,10301,battle-only art
+719,0,,,,mega,1,Mega Diancie,10075,battle-only art
+720,1,,,,form,,Hoopa (Unbound),10086,form number from PokeAPI order (unverified)
+724,1,,,,form,,Hisuian Decidueye,10244,form number from PokeAPI order (unverified)
+735,1,,,,form,,Gumshoos (Totem),10121,form number from PokeAPI order (unverified)
+738,1,,,,form,,Vikavolt (Totem),10122,form number from PokeAPI order (unverified)
+740,0,,,,mega,1,Mega Crabominable,10315,battle-only art
+741,1,,,,form,,Oricorio (Pom Pom),10123,form number from PokeAPI order (unverified)
+741,2,,,,form,,Oricorio (Pau),10124,form number verified with a PKHeX-made file
+741,3,,,,form,,Oricorio (Sensu),10125,form number from PokeAPI order (unverified)
+743,1,,,,form,,Ribombee (Totem),10150,form number from PokeAPI order (unverified)
+744,1,,,,form,,Rockruff (Own Tempo),10151,form number from PokeAPI order (unverified)
+745,1,,,,form,,Lycanroc (Midnight),10126,form number verified with a PKHeX-made file
+745,2,,,,form,,Lycanroc (Dusk),10152,form number verified with a PKHeX-made file
+746,1,,,,form,,Wishiwashi (School),10127,form number from PokeAPI order (unverified)
+752,1,,,,form,,Araquanid (Totem),10153,form number from PokeAPI order (unverified)
+754,1,,,,form,,Lurantis (Totem),10128,form number from PokeAPI order (unverified)
+758,1,,,,form,,Salazzle (Totem),10129,form number from PokeAPI order (unverified)
+768,0,,,,mega,1,Mega Golisopod,10316,battle-only art
+774,1,,,,form,,Minior (Orange Meteor),10130,form number from PokeAPI order (unverified)
+774,10,,,,form,,Minior (Green),10139,form number from PokeAPI order (unverified)
+774,11,,,,form,,Minior (Blue),10140,form number from PokeAPI order (unverified)
+774,12,,,,form,,Minior (Indigo),10141,form number from PokeAPI order (unverified)
+774,13,,,,form,,Minior (Violet),10142,form number from PokeAPI order (unverified)
+774,2,,,,form,,Minior (Yellow Meteor),10131,form number from PokeAPI order (unverified)
+774,3,,,,form,,Minior (Green Meteor),10132,form number from PokeAPI order (unverified)
+774,4,,,,form,,Minior (Blue Meteor),10133,form number from PokeAPI order (unverified)
+774,5,,,,form,,Minior (Indigo Meteor),10134,form number from PokeAPI order (unverified)
+774,6,,,,form,,Minior (Violet Meteor),10135,form number from PokeAPI order (unverified)
+774,7,,,,form,,Minior (Red),10136,form number from PokeAPI order (unverified)
+774,8,,,,form,,Minior (Orange),10137,form number from PokeAPI order (unverified)
+774,9,,,,form,,Minior (Yellow),10138,form number from PokeAPI order (unverified)
+777,1,,,,form,,Togedemaru (Totem),10154,form number from PokeAPI order (unverified)
+778,1,,,,form,,Mimikyu (Busted),10143,form number from PokeAPI order (unverified)
+778,2,,,,form,,Mimikyu (Totem Disguised),10144,form number from PokeAPI order (unverified)
+778,3,,,,form,,Mimikyu (Totem Busted),10145,form number from PokeAPI order (unverified)
+780,0,,,,mega,1,Mega Drampa,10302,battle-only art
+784,1,,,,form,,Kommo-o (Totem),10146,form number from PokeAPI order (unverified)
+800,1,,,,form,,Necrozma (Dusk),10155,form number from PokeAPI order (unverified)
+800,2,,,,form,,Necrozma (Dawn),10156,form number from PokeAPI order (unverified)
+800,3,,,,form,,Necrozma (Ultra),10157,form number from PokeAPI order (unverified)
+801,1,,,,form,,Magearna (Original),10147,form number from PokeAPI order (unverified)
+801,0,,,,mega,1,Mega Magearna,10317,battle-only art
+801,1,,,,mega,1,Mega Magearna (Original Color),10318,battle-only art
+807,0,,,,mega,1,Mega Zeraora,10319,battle-only art
+809,0,,,,gmax,1,Gigantamax Melmetal,10208,battle-only art
+812,0,,,,gmax,1,Gigantamax Rillaboom,10209,battle-only art
+815,0,,,,gmax,1,Gigantamax Cinderace,10210,battle-only art
+818,0,,,,gmax,1,Gigantamax Inteleon,10211,battle-only art
+823,0,,,,gmax,1,Gigantamax Corviknight,10212,battle-only art
+826,0,,,,gmax,1,Gigantamax Orbeetle,10213,battle-only art
+834,0,,,,gmax,1,Gigantamax Drednaw,10214,battle-only art
+839,0,,,,gmax,1,Gigantamax Coalossal,10215,battle-only art
+841,0,,,,gmax,1,Gigantamax Flapple,10216,battle-only art
+842,0,,,,gmax,1,Gigantamax Appletun,10217,battle-only art
+844,0,,,,gmax,1,Gigantamax Sandaconda,10218,battle-only art
+845,1,,,,form,,Cramorant (Gulping),10182,form number from PokeAPI order (unverified)
+845,2,,,,form,,Cramorant (Gorging),10183,form number from PokeAPI order (unverified)
+849,1,,,,form,,Toxtricity (Low Key),10184,form number from PokeAPI order (unverified)
+849,0,,,,gmax,1,Gigantamax Toxtricity (Amped),10219,battle-only art
+849,1,,,,gmax,1,Gigantamax Toxtricity (Low Key),10228,battle-only art
+851,0,,,,gmax,1,Gigantamax Centiskorch,10220,battle-only art
+858,0,,,,gmax,1,Gigantamax Hatterene,10221,battle-only art
+861,0,,,,gmax,1,Gigantamax Grimmsnarl,10222,battle-only art
+869,,,,,gmax,1,Gigantamax Alcremie,10223,battle-only art
+870,0,,,,mega,1,Mega Falinks,10303,battle-only art
+875,1,,,,form,,Eiscue (Noice),10185,form number from PokeAPI order (unverified)
+876,,F,,,form,,Indeedee (Female),10186,gender match
+876,1,F,,,form,,Indeedee (Female),10186,form number from PokeAPI order (unverified)
+877,1,,,,form,,Morpeko (Hangry),10187,form number from PokeAPI order (unverified)
+879,0,,,,gmax,1,Gigantamax Copperajah,10224,battle-only art
+884,0,,,,gmax,1,Gigantamax Duraludon,10225,battle-only art
+888,1,,,,form,,Zacian (Crowned),10188,form number from PokeAPI order (unverified)
+889,1,,,,form,,Zamazenta (Crowned),10189,form number from PokeAPI order (unverified)
+890,0,,,,special,1,Eternamax Eternatus,10190,battle-only art
+892,1,,,,form,,Urshifu (Rapid Strike),10191,form number from PokeAPI order (unverified)
+892,0,,,,gmax,1,Gigantamax Urshifu (Single Strike),10226,battle-only art
+892,1,,,,gmax,1,Gigantamax Urshifu (Rapid Strike),10227,battle-only art
+893,1,,,,form,,Zarude (Dada),10192,form number from PokeAPI order (unverified)
+898,1,,,,form,,Calyrex (Ice),10193,form number from PokeAPI order (unverified)
+898,2,,,,form,,Calyrex (Shadow),10194,form number from PokeAPI order (unverified)
+901,1,,,,form,,Ursaluna (Bloodmoon),10272,form number from PokeAPI order (unverified)
+902,,F,,,form,,Basculegion (Female),10248,gender match
+902,1,F,,,form,,Basculegion (Female),10248,form number from PokeAPI order (unverified)
+905,1,,,,form,,Enamorus (Therian),10249,form number from PokeAPI order (unverified)
+916,,F,,,form,,Oinkologne (Female),10254,gender match
+916,1,F,,,form,,Oinkologne (Female),10254,form number from PokeAPI order (unverified)
+925,1,,,,form,,Maushold (Family Of Three),10257,form number from PokeAPI order (unverified)
+931,1,,,,form,,Squawkabilly (Blue Plumage),10260,form number from PokeAPI order (unverified)
+931,2,,,,form,,Squawkabilly (Yellow Plumage),10261,form number from PokeAPI order (unverified)
+931,3,,,,form,,Squawkabilly (White Plumage),10262,form number from PokeAPI order (unverified)
+952,0,,,,mega,1,Mega Scovillain,10320,battle-only art
+964,1,,,,form,,Palafin (Hero),10256,form number from PokeAPI order (unverified)
+970,0,,,,mega,1,Mega Glimmora,10321,battle-only art
+978,1,,,,form,,Tatsugiri (Droopy),10258,form number from PokeAPI order (unverified)
+978,2,,,,form,,Tatsugiri (Stretchy),10259,form number from PokeAPI order (unverified)
+978,0,,,,mega,1,Mega Tatsugiri (Curly),10322,battle-only art
+978,1,,,,mega,1,Mega Tatsugiri (Droopy),10323,battle-only art
+978,2,,,,mega,1,Mega Tatsugiri (Stretchy),10324,battle-only art
+982,1,,,,form,,Dudunsparce (Three Segment),10255,form number from PokeAPI order (unverified)
+998,0,,,,mega,1,Mega Baxcalibur,10325,battle-only art
+999,1,,,,form,,Gimmighoul (Roaming),10263,form number from PokeAPI order (unverified)
+1007,1,,,,form,,Koraidon (Limited Build),10264,form number from PokeAPI order (unverified)
+1007,2,,,,form,,Koraidon (Sprinting Build),10265,form number from PokeAPI order (unverified)
+1007,3,,,,form,,Koraidon (Swimming Build),10266,form number from PokeAPI order (unverified)
+1007,4,,,,form,,Koraidon (Gliding Build),10267,form number from PokeAPI order (unverified)
+1008,1,,,,form,,Miraidon (Low Power Mode),10268,form number from PokeAPI order (unverified)
+1008,2,,,,form,,Miraidon (Drive Mode),10269,form number from PokeAPI order (unverified)
+1008,3,,,,form,,Miraidon (Aquatic Mode),10270,form number from PokeAPI order (unverified)
+1008,4,,,,form,,Miraidon (Glide Mode),10271,form number from PokeAPI order (unverified)
+1017,1,,,,form,,Ogerpon (Wellspring Mask),10273,form number from PokeAPI order (unverified)
+1017,2,,,,form,,Ogerpon (Hearthflame Mask),10274,form number from PokeAPI order (unverified)
+1017,3,,,,form,,Ogerpon (Cornerstone Mask),10275,form number from PokeAPI order (unverified)
+1024,1,,,,form,,Terapagos (Terastal),10276,form number from PokeAPI order (unverified)
+1024,2,,,,form,,Terapagos (Stellar),10277,form number from PokeAPI order (unverified)
+422,1,,,,form,,East Sea Shellos,422-east,official art from PokeAPI sprites; form number verified with a real Diamond file
+423,1,,,,form,,East Sea Gastrodon,423-east,official art from PokeAPI sprites; form number verified with a real Diamond file
+412,1,,,,form,,Burmy (Sandy),412-sandy,official art from PokeAPI sprites; form number from game data (unverified)
+412,2,,,,form,,Burmy (Trash),412-trash,official art from PokeAPI sprites; form number from game data (unverified)
+421,,,,,special,1,Cherrim (Sunshine),421-sunshine,battle-only art
+586,1,,,,form,,Sawsbuck (Summer),586-summer,official art from PokeAPI sprites; form number from game data (unverified)
+586,2,,,,form,,Sawsbuck (Autumn),586-autumn,official art from PokeAPI sprites; form number from game data (unverified)
+586,3,,,,form,,Sawsbuck (Winter),586-winter,official art from PokeAPI sprites; form number from game data (unverified)
+592,,F,,,form,,Frillish (Female),592-female,official art from PokeAPI sprites; form number from game data (unverified)
+593,,F,,,form,,Jellicent (Female),593-female,official art from PokeAPI sprites; form number from game data (unverified)
+668,,F,,,form,,Pyroar (Female),668-female,official art from PokeAPI sprites; form number from game data (unverified)
+676,1,,,,form,,Furfrou (Heart Trim),676-heart,official art from PokeAPI sprites; form number from game data (unverified)
+676,2,,,,form,,Furfrou (Star Trim),676-star,official art from PokeAPI sprites; form number from game data (unverified)
+676,3,,,,form,,Furfrou (Diamond Trim),676-diamond,official art from PokeAPI sprites; form number from game data (unverified)
+676,4,,,,form,,Furfrou (Debutante Trim),676-debutante,official art from PokeAPI sprites; form number from game data (unverified)
+676,5,,,,form,,Furfrou (Matron Trim),676-matron,official art from PokeAPI sprites; form number from game data (unverified)
+676,6,,,,form,,Furfrou (Dandy Trim),676-dandy,official art from PokeAPI sprites; form number from game data (unverified)
+676,7,,,,form,,Furfrou (La Reine Trim),676-la-reine,official art from PokeAPI sprites; form number from game data (unverified)
+676,8,,,,form,,Furfrou (Kabuki Trim),676-kabuki,official art from PokeAPI sprites; form number from game data (unverified)
+676,9,,,,form,,Furfrou (Pharaoh Trim),676-pharaoh,official art from PokeAPI sprites; form number from game data (unverified)
+201,1,,,,form,,Unown (B),201-b,official art from PokeAPI sprites; form number from game data (unverified)
+201,2,,,,form,,Unown (C),201-c,official art from PokeAPI sprites; form number from game data (unverified)
+201,3,,,,form,,Unown (D),201-d,official art from PokeAPI sprites; form number from game data (unverified)
+201,4,,,,form,,Unown (E),201-e,official art from PokeAPI sprites; form number from game data (unverified)
+201,5,,,,form,,Unown (F),201-f,official art from PokeAPI sprites; form number from game data (unverified)
+201,6,,,,form,,Unown (G),201-g,official art from PokeAPI sprites; form number from game data (unverified)
+201,7,,,,form,,Unown (H),201-h,official art from PokeAPI sprites; form number from game data (unverified)
+201,8,,,,form,,Unown (I),201-i,official art from PokeAPI sprites; form number from game data (unverified)
+201,9,,,,form,,Unown (J),201-j,official art from PokeAPI sprites; form number from game data (unverified)
+201,10,,,,form,,Unown (K),201-k,official art from PokeAPI sprites; form number from game data (unverified)
+201,11,,,,form,,Unown (L),201-l,official art from PokeAPI sprites; form number from game data (unverified)
+201,12,,,,form,,Unown (M),201-m,official art from PokeAPI sprites; form number from game data (unverified)
+201,13,,,,form,,Unown (N),201-n,official art from PokeAPI sprites; form number from game data (unverified)
+201,14,,,,form,,Unown (O),201-o,official art from PokeAPI sprites; form number from game data (unverified)
+201,15,,,,form,,Unown (P),201-p,official art from PokeAPI sprites; form number from game data (unverified)
+201,16,,,,form,,Unown (Q),201-q,official art from PokeAPI sprites; form number from game data (unverified)
+201,17,,,,form,,Unown (R),201-r,official art from PokeAPI sprites; form number from game data (unverified)
+201,18,,,,form,,Unown (S),201-s,official art from PokeAPI sprites; form number from game data (unverified)
+201,19,,,,form,,Unown (T),201-t,official art from PokeAPI sprites; form number from game data (unverified)
+201,20,,,,form,,Unown (U),201-u,official art from PokeAPI sprites; form number from game data (unverified)
+201,21,,,,form,,Unown (V),201-v,official art from PokeAPI sprites; form number from game data (unverified)
+201,22,,,,form,,Unown (W),201-w,official art from PokeAPI sprites; form number from game data (unverified)
+201,23,,,,form,,Unown (X),201-x,official art from PokeAPI sprites; form number from game data (unverified)
+201,24,,,,form,,Unown (Y),201-y,official art from PokeAPI sprites; form number from game data (unverified)
+201,25,,,,form,,Unown (Z),201-z,official art from PokeAPI sprites; form number from game data (unverified)
+201,26,,,,form,,Unown (!),201-exclamation,official art from PokeAPI sprites; form number from game data (unverified)
+201,27,,,,form,,Unown (?),201-question,official art from PokeAPI sprites; form number from game data (unverified)

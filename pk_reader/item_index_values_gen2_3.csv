@@ -1,0 +1,379 @@
+Gen3,,,,Gen 2,,
+#,Hex,Item,,#,Hex,Item
+0,0x0,Nothing,,0,0x0,?
+1,0x1,Master Ball,,1,0x1,Master Ball
+2,0x2,Ultra Ball,,2,0x2,Ultra Ball
+3,0x3,Great Ball,,3,0x3,BrightPowder
+4,0x4,Poké Ball,,4,0x4,Great Ball
+5,0x5,Safari Ball,,5,0x5,Poké Ball
+6,0x6,Net Ball,,6,0x6,Teru-sama
+7,0x7,Dive Ball,,7,0x7,Bicycle
+8,0x8,Nest Ball,,8,0x8,Moon Stone
+9,0x9,Repeat Ball,,9,0x9,Antidote
+10,0xA,Timer Ball,,10,0xA,Burn Heal
+11,0xB,Luxury Ball,,11,0xB,Ice Heal
+12,0xC,Premier Ball,,12,0xC,Awakening
+13,0xD,Potion,,13,0xD,Parlyz Heal
+14,0xE,Antidote,,14,0xE,Full Restore
+15,0xF,Burn Heal,,15,0xF,Max Potion
+16,0x10,Ice Heal,,16,0x10,Hyper Potion
+17,0x11,Awakening,,17,0x11,Super Potion
+18,0x12,Parlyz Heal,,18,0x12,Potion
+19,0x13,Full Restore,,19,0x13,Escape Rope
+20,0x14,Max Potion,,20,0x14,Repel
+21,0x15,Hyper Potion,,21,0x15,Max Elixer
+22,0x16,Super Potion,,22,0x16,Fire Stone
+23,0x17,Full Heal,,23,0x17,Thunderstone
+24,0x18,Revive,,24,0x18,Water Stone
+25,0x19,Max Revive,,25,0x19,Teru-sama
+26,0x1A,Fresh Water,,26,0x1A,HP Up
+27,0x1B,Soda Pop,,27,0x1B,Protein
+28,0x1C,Lemonade,,28,0x1C,Iron
+29,0x1D,Moomoo Milk,,29,0x1D,Carbos
+30,0x1E,EnergyPowder,,30,0x1E,Lucky Punch
+31,0x1F,Energy Root,,31,0x1F,Calcium
+32,0x20,Heal Powder,,32,0x20,Rare Candy
+33,0x21,Revival Herb,,33,0x21,X Accuracy
+34,0x22,Ether,,34,0x22,Leaf Stone
+35,0x23,Max Ether,,35,0x23,Metal Powder
+36,0x24,Elixir,,36,0x24,Nugget
+37,0x25,Max Elixir,,37,0x25,Poké Doll
+38,0x26,Lava Cookie,,38,0x26,Full Heal
+39,0x27,Blue Flute,,39,0x27,Revive
+40,0x28,Yellow Flute,,40,0x28,Max Revive
+41,0x29,Red Flute,,41,0x29,Guard Spec.
+42,0x2A,Black Flute,,42,0x2A,Super Repel
+43,0x2B,White Flute,,43,0x2B,Max Repel
+44,0x2C,Berry Juice,,44,0x2C,Dire Hit
+45,0x2D,Sacred Ash,,45,0x2D,Teru-sama
+46,0x2E,Shoal Salt,,46,0x2E,Fresh Water
+47,0x2F,Shoal Shell,,47,0x2F,Soda Pop
+48,0x30,Red Shard,,48,0x30,Lemonade
+49,0x31,Blue Shard,,49,0x31,X Attack
+50,0x32,Yellow Shard,,50,0x32,Teru-sama
+51,0x33,Green Shard,,51,0x33,X Defend
+52,0x34,????????,,52,0x34,X Speed
+53,0x35,????????,,53,0x35,X Special
+54,0x36,????????,,54,0x36,Coin Case
+55,0x37,????????,,55,0x37,Itemfinder
+56,0x38,????????,,56,0x38,Teru-sama
+57,0x39,????????,,57,0x39,Exp.Share
+58,0x3A,????????,,58,0x3A,Old Rod
+59,0x3B,????????,,59,0x3B,Good Rod
+60,0x3C,????????,,60,0x3C,Silver Leaf
+61,0x3D,????????,,61,0x3D,Super Rod
+62,0x3E,????????,,62,0x3E,PP Up
+63,0x3F,HP Up,,63,0x3F,Ether
+64,0x40,Protein,,64,0x40,Max Ether
+65,0x41,Iron,,65,0x41,Elixer
+66,0x42,Carbos,,66,0x42,Red Scale
+67,0x43,Calcium,,67,0x43,SecretPotion
+68,0x44,Rare Candy,,68,0x44,S.S. Ticket
+69,0x45,PP Up,,69,0x45,Mystery Egg
+70,0x46,Zinc,,70,0x46,Clear Bell*
+71,0x47,PP Max,,71,0x47,Silver Wing
+72,0x48,????????,,72,0x48,Moomoo Milk
+73,0x49,Guard Spec.,,73,0x49,Quick Claw
+74,0x4A,Dire Hit,,74,0x4A,PSNCureBerry
+75,0x4B,X Attack,,75,0x4B,Gold Leaf
+76,0x4C,X Defend,,76,0x4C,Soft Sand
+77,0x4D,X Speed,,77,0x4D,Sharp Beak
+78,0x4E,X Accuracy,,78,0x4E,PRZCureBerry
+79,0x4F,X Special,,79,0x4F,Burnt Berry
+80,0x50,Poké Doll,,80,0x50,Ice Berry
+81,0x51,Fluffy Tail,,81,0x51,Poison Barb
+82,0x52,????????,,82,0x52,King's Rock
+83,0x53,Super Repel,,83,0x53,Bitter Berry
+84,0x54,Max Repel,,84,0x54,Mint Berry
+85,0x55,Escape Rope,,85,0x55,Red Apricorn
+86,0x56,Repel,,86,0x56,TinyMushroom
+87,0x57,????????,,87,0x57,Big Mushroom
+88,0x58,????????,,88,0x58,SilverPowder
+89,0x59,????????,,89,0x59,Blu Apricorn
+90,0x5A,????????,,90,0x5A,Teru-sama
+91,0x5B,????????,,91,0x5B,Amulet Coin
+92,0x5C,????????,,92,0x5C,Ylw Apricorn
+93,0x5D,Sun Stone,,93,0x5D,Grn Apricorn
+94,0x5E,Moon Stone,,94,0x5E,Cleanse Tag
+95,0x5F,Fire Stone,,95,0x5F,Mystic Water
+96,0x60,Thunderstone,,96,0x60,TwistedSpoon
+97,0x61,Water Stone,,97,0x61,Wht Apricorn
+98,0x62,Leaf Stone,,98,0x62,Blackbelt
+99,0x63,????????,,99,0x63,Blk Apricorn
+100,0x64,????????,,100,0x64,Teru-sama
+101,0x65,????????,,101,0x65,Pnk Apricorn
+102,0x66,????????,,102,0x66,BlackGlasses
+103,0x67,TinyMushroom,,103,0x67,SlowpokeTail
+104,0x68,Big Mushroom,,104,0x68,Pink Bow
+105,0x69,????????,,105,0x69,Stick
+106,0x6A,Pearl,,106,0x6A,Smoke Ball
+107,0x6B,Big Pearl,,107,0x6B,NeverMeltIce
+108,0x6C,Stardust,,108,0x6C,Magnet
+109,0x6D,Star Piece,,109,0x6D,MiracleBerry
+110,0x6E,Nugget,,110,0x6E,Pearl
+111,0x6F,Heart Scale,,111,0x6F,Big Pearl
+112,0x70,????????,,112,0x70,Everstone
+113,0x71,????????,,113,0x71,Spell Tag
+114,0x72,????????,,114,0x72,RageCandyBar
+115,0x73,????????,,115,0x73,GS Ball*
+116,0x74,????????,,116,0x74,Blue Card*
+117,0x75,????????,,117,0x75,Miracle Seed
+118,0x76,????????,,118,0x76,Thick Club
+119,0x77,????????,,119,0x77,Focus Band
+120,0x78,????????,,120,0x78,Teru-sama
+121,0x79,Orange Mail,,121,0x79,EnergyPowder
+122,0x7A,Harbor Mail,,122,0x7A,Energy Root
+123,0x7B,Glitter Mail,,123,0x7B,Heal Powder
+124,0x7C,Mech Mail,,124,0x7C,Revival Herb
+125,0x7D,Wood Mail,,125,0x7D,Hard Stone
+126,0x7E,Wave Mail,,126,0x7E,Lucky Egg
+127,0x7F,Bead Mail,,127,0x7F,Card Key
+128,0x80,Shadow Mail,,128,0x80,Machine Part
+129,0x81,Tropic Mail,,129,0x81,Egg Ticket*
+130,0x82,Dream Mail,,130,0x82,Lost Item
+131,0x83,Fab Mail,,131,0x83,Stardust
+132,0x84,Retro Mail,,132,0x84,Star Piece
+133,0x85,Cheri Berry,,133,0x85,Basement Key
+134,0x86,Chesto Berry,,134,0x86,Pass
+135,0x87,Pecha Berry,,135,0x87,Teru-sama
+136,0x88,Rawst Berry,,136,0x88,Teru-sama
+137,0x89,Aspear Berry,,137,0x89,Teru-sama
+138,0x8A,Leppa Berry,,138,0x8A,Charcoal
+139,0x8B,Oran Berry,,139,0x8B,Berry Juice
+140,0x8C,Persim Berry,,140,0x8C,Scope Lens
+141,0x8D,Lum Berry,,141,0x8D,Teru-sama
+142,0x8E,Sitrus Berry,,142,0x8E,Teru-sama
+143,0x8F,Figy Berry,,143,0x8F,Metal Coat
+144,0x90,Wiki Berry,,144,0x90,Dragon Fang
+145,0x91,Mago Berry,,145,0x91,Teru-sama
+146,0x92,Aguav Berry,,146,0x92,Leftovers
+147,0x93,Iapapa Berry,,147,0x93,Teru-sama
+148,0x94,Razz Berry,,148,0x94,Teru-sama
+149,0x95,Bluk Berry,,149,0x95,Teru-sama
+150,0x96,Nanab Berry,,150,0x96,MysteryBerry
+151,0x97,Wepear Berry,,151,0x97,Dragon Scale
+152,0x98,Pinap Berry,,152,0x98,Berserk Gene
+153,0x99,Pomeg Berry,,153,0x99,Teru-sama
+154,0x9A,Kelpsy Berry,,154,0x9A,Teru-sama
+155,0x9B,Qualot Berry,,155,0x9B,Teru-sama
+156,0x9C,Hondew Berry,,156,0x9C,Sacred Ash
+157,0x9D,Grepa Berry,,157,0x9D,Heavy Ball
+158,0x9E,Tamato Berry,,158,0x9E,Flower Mail
+159,0x9F,Cornn Berry,,159,0x9F,Level Ball
+160,0xA0,Magost Berry,,160,0xA0,Lure Ball
+161,0xA1,Rabuta Berry,,161,0xA1,Fast Ball
+162,0xA2,Nomel Berry,,162,0xA2,Teru-sama
+163,0xA3,Spelon Berry,,163,0xA3,Light Ball
+164,0xA4,Pamtre Berry,,164,0xA4,Friend Ball
+165,0xA5,Watmel Berry,,165,0xA5,Moon Ball
+166,0xA6,Durin Berry,,166,0xA6,Love Ball
+167,0xA7,Belue Berry,,167,0xA7,Normal Box
+168,0xA8,Liechi Berry,,168,0xA8,Gorgeous Box
+169,0xA9,Ganlon Berry,,169,0xA9,Sun Stone
+170,0xAA,Salac Berry,,170,0xAA,Polkadot Bow
+171,0xAB,Petaya Berry,,171,0xAB,Teru-sama
+172,0xAC,Apicot Berry,,172,0xAC,Up-Grade
+173,0xAD,Lansat Berry,,173,0xAD,Berry
+174,0xAE,Starf Berry,,174,0xAE,Gold Berry
+175,0xAF,Enigma Berry,,175,0xAF,SquirtBottle
+176,0xB0,????????,,176,0xB0,Teru-sama
+177,0xB1,????????,,177,0xB1,Park Ball
+178,0xB2,????????,,178,0xB2,Rainbow Wing
+179,0xB3,BrightPowder,,179,0xB3,Teru-sama
+180,0xB4,White Herb,,180,0xB4,Brick Piece
+181,0xB5,Macho Brace,,181,0xB5,Surf Mail
+182,0xB6,Exp. Share,,182,0xB6,Litebluemail
+183,0xB7,Quick Claw,,183,0xB7,Portraitmail
+184,0xB8,Soothe Bell,,184,0xB8,Lovely Mail
+185,0xB9,Mental Herb,,185,0xB9,Eon Mail
+186,0xBA,Choice Band,,186,0xBA,Morph Mail
+187,0xBB,King's Rock,,187,0xBB,Bluesky Mail
+188,0xBC,SilverPowder,,188,0xBC,Music Mail
+189,0xBD,Amulet Coin,,189,0xBD,Mirage Mail
+190,0xBE,Cleanse Tag,,190,0xBE,Teru-sama
+191,0xBF,Soul Dew,,191,0xBF,TM01
+192,0xC0,DeepSeaTooth,,192,0xC0,TM02
+193,0xC1,DeepSeaScale,,193,0xC1,TM03
+194,0xC2,Smoke Ball,,194,0xC2,TM04
+195,0xC3,Everstone,,195,0xC3,TM04
+196,0xC4,Focus Band,,196,0xC4,TM05
+197,0xC5,Lucky Egg,,197,0xC5,TM06
+198,0xC6,Scope Lens,,198,0xC6,TM07
+199,0xC7,Metal Coat,,199,0xC7,TM08
+200,0xC8,Leftovers,,200,0xC8,TM09
+201,0xC9,Dragon Scale,,201,0xC9,TM10
+202,0xCA,Light Ball,,202,0xCA,TM11
+203,0xCB,Soft Sand,,203,0xCB,TM12
+204,0xCC,Hard Stone,,204,0xCC,TM13
+205,0xCD,Miracle Seed,,205,0xCD,TM14
+206,0xCE,BlackGlasses,,206,0xCE,TM15
+207,0xCF,Black Belt,,207,0xCF,TM16
+208,0xD0,Magnet,,208,0xD0,TM17
+209,0xD1,Mystic Water,,209,0xD1,TM18
+210,0xD2,Sharp Beak,,210,0xD2,TM19
+211,0xD3,Poison Barb,,211,0xD3,TM20
+212,0xD4,NeverMeltIce,,212,0xD4,TM21
+213,0xD5,Spell Tag,,213,0xD5,TM22
+214,0xD6,TwistedSpoon,,214,0xD6,TM23
+215,0xD7,Charcoal,,215,0xD7,TM24
+216,0xD8,Dragon Fang,,216,0xD8,TM25
+217,0xD9,Silk Scarf,,217,0xD9,TM26
+218,0xDA,Up-Grade,,218,0xDA,TM27
+219,0xDB,Shell Bell,,219,0xDB,TM28
+220,0xDC,Sea Incense,,220,0xDC,TM28
+221,0xDD,Lax Incense,,221,0xDD,TM29
+222,0xDE,Lucky Punch,,222,0xDE,TM30
+223,0xDF,Metal Powder,,223,0xDF,TM31
+224,0xE0,Thick Club,,224,0xE0,TM32
+225,0xE1,Stick,,225,0xE1,TM33
+226,0xE2,????????,,226,0xE2,TM34
+227,0xE3,????????,,227,0xE3,TM35
+228,0xE4,????????,,228,0xE4,TM36
+229,0xE5,????????,,229,0xE5,TM37
+230,0xE6,????????,,230,0xE6,TM38
+231,0xE7,????????,,231,0xE7,TM39
+232,0xE8,????????,,232,0xE8,TM40
+233,0xE9,????????,,233,0xE9,TM41
+234,0xEA,????????,,234,0xEA,TM42
+235,0xEB,????????,,235,0xEB,TM43
+236,0xEC,????????,,236,0xEC,TM44
+237,0xED,????????,,237,0xED,TM45
+238,0xEE,????????,,238,0xEE,TM46
+239,0xEF,????????,,239,0xEF,TM47
+240,0xF0,????????,,240,0xF0,TM48
+241,0xF1,????????,,241,0xF1,TM49
+242,0xF2,????????,,242,0xF2,TM50
+243,0xF3,????????,,243,0xF3,HM01
+244,0xF4,????????,,244,0xF4,HM02
+245,0xF5,????????,,245,0xF5,HM03
+246,0xF6,????????,,246,0xF6,HM04
+247,0xF7,????????,,247,0xF7,HM05
+248,0xF8,????????,,248,0xF8,HM06
+249,0xF9,????????,,249,0xF9,HM07
+250,0xFA,????????,,250,0xFA,HM08
+251,0xFB,????????,,251,0xFB,HM09
+252,0xFC,????????,,252,0xFC,HM10
+253,0xFD,????????,,253,0xFD,HM11
+254,0xFE,Red Scarf,,254,0xFE,HM12
+255,0xFF,Blue Scarf,,255,0xFF,Cancel
+256,0x100,Pink Scarf,,,,
+257,0x101,Green Scarf,,,,
+258,0x102,Yellow Scarf,,,,
+259,0x103,Mach Bike,,,,
+260,0x104,Coin Case,,,,
+261,0x105,Itemfinder,,,,
+262,0x106,Old Rod,,,,
+263,0x107,Good Rod,,,,
+264,0x108,Super Rod,,,,
+265,0x109,S.S. Ticket,,,,
+266,0x10A,Contest Pass,,,,
+267,0x10B,????????,,,,
+268,0x10C,Wailmer Pail,,,,
+269,0x10D,Devon Goods,,,,
+270,0x10E,Soot Sack,,,,
+271,0x10F,Basement Key,,,,
+272,0x110,Acro Bike,,,,
+273,0x111,Pokéblock Case,,,,
+274,0x112,Letter,,,,
+275,0x113,Eon Ticket,,,,
+276,0x114,Red Orb,,,,
+277,0x115,Blue Orb,,,,
+278,0x116,Scanner,,,,
+279,0x117,Go-Goggles,,,,
+280,0x118,Meteorite,,,,
+281,0x119,Rm. 1 Key,,,,
+282,0x11A,Rm. 2 Key,,,,
+283,0x11B,Rm. 4 Key,,,,
+284,0x11C,Rm. 6 Key,,,,
+285,0x11D,Storage Key,,,,
+286,0x11E,Root Fossil,,,,
+287,0x11F,Claw Fossil,,,,
+288,0x120,Devon Scope,,,,
+289,0x121,TM01,,,,
+290,0x122,TM02,,,,
+291,0x123,TM03,,,,
+292,0x124,TM04,,,,
+293,0x125,TM05,,,,
+294,0x126,TM06,,,,
+295,0x127,TM07,,,,
+296,0x128,TM08,,,,
+297,0x129,TM09,,,,
+298,0x12A,TM10,,,,
+299,0x12B,TM11,,,,
+300,0x12C,TM12,,,,
+301,0x12D,TM13,,,,
+302,0x12E,TM14,,,,
+303,0x12F,TM15,,,,
+304,0x130,TM16,,,,
+305,0x131,TM17,,,,
+306,0x132,TM18,,,,
+307,0x133,TM19,,,,
+308,0x134,TM20,,,,
+309,0x135,TM21,,,,
+310,0x136,TM22,,,,
+311,0x137,TM23,,,,
+312,0x138,TM24,,,,
+313,0x139,TM25,,,,
+314,0x13A,TM26,,,,
+315,0x13B,TM27,,,,
+316,0x13C,TM28,,,,
+317,0x13D,TM29,,,,
+318,0x13E,TM30,,,,
+319,0x13F,TM31,,,,
+320,0x140,TM32,,,,
+321,0x141,TM33,,,,
+322,0x142,TM34,,,,
+323,0x143,TM35,,,,
+324,0x144,TM36,,,,
+325,0x145,TM37,,,,
+326,0x146,TM38,,,,
+327,0x147,TM39,,,,
+328,0x148,TM40,,,,
+329,0x149,TM41,,,,
+330,0x14A,TM42,,,,
+331,0x14B,TM43,,,,
+332,0x14C,TM44,,,,
+333,0x14D,TM45,,,,
+334,0x14E,TM46,,,,
+335,0x14F,TM47,,,,
+336,0x150,TM48,,,,
+337,0x151,TM49,,,,
+338,0x152,TM50,,,,
+339,0x153,HM01,,,,
+340,0x154,HM02,,,,
+341,0x155,HM03,,,,
+342,0x156,HM04,,,,
+343,0x157,HM05,,,,
+344,0x158,HM06,,,,
+345,0x159,HM07,,,,
+346,0x15A,HM08,,,,
+347,0x15B,????????,,,,
+348,0x15C,????????,,,,
+349,0x15D,Oak's Parcel*,,,,
+350,0x15E,Poké Flute*,,,,
+351,0x15F,Secret Key*,,,,
+352,0x160,Bike Voucher*,,,,
+353,0x161,Gold Teeth*,,,,
+354,0x162,Old Amber*,,,,
+355,0x163,Card Key*,,,,
+356,0x164,Lift Key*,,,,
+357,0x165,Helix Fossil*,,,,
+358,0x166,Dome Fossil*,,,,
+359,0x167,Silph Scope*,,,,
+360,0x168,Bicycle*,,,,
+361,0x169,Town Map*,,,,
+362,0x16A,VS Seeker*,,,,
+363,0x16B,Fame Checker*,,,,
+364,0x16C,TM Case*,,,,
+365,0x16D,Berry Pouch*,,,,
+366,0x16E,Teachy TV*,,,,
+367,0x16F,Tri-Pass*,,,,
+368,0x170,Rainbow Pass*,,,,
+369,0x171,Tea*,,,,
+370,0x172,MysticTicket*,,,,
+371,0x173,AuroraTicket*,,,,
+372,0x174,Powder Jar*,,,,
+373,0x175,Ruby*,,,,
+374,0x176,Sapphire*,,,,
+375,0x177,Magma Emblem*,,,,
+376,0x178,Old Sea Map*,,,,
