@@ -24,7 +24,7 @@ The Pokémon Company.
   Primal forms (from the held stone or orb), with an "Alternate form" box to choose another.
 - **Uses the Pokémon's own colors** if you want: 6 colors per Pokémon (normal and shiny) for the
   art, title and title bar, with copyable hex codes.
-- **Ball, gender and held item** as pictures or text, plus an optional shiny star.
+- **Ball, gender and held item** as pictures or text, plus an optional shiny star.**BALL AND HELD ITEM IMAGES ONLY APPEAR IF THEY ARE DOWNLOADED FROM POKEAPI, SEE EXTRA DOWNLOADS SECTION**
 - **Makes posters in bulk**: "Generate All in Folder" does a whole box or living dex at once.
 - **Saves your styles** as profiles, so every poster in a set matches.
 
